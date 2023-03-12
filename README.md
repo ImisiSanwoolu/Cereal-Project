@@ -8,7 +8,7 @@ This is my first published SQL project. I’m not quite interested in the food i
 
 
 ## Objectives and Questions
-	A scenario where the supermarket is looking to slightly expand its operations and make more units of products available for sale. The task is to look for which products, in this case, cereals to increase the total units purchased for resale. 
+A scenario where the supermarket is looking to slightly expand its operations and make more units of products available for sale. The task is to look for which products, in this case, cereals to increase the total units purchased for resale. 
 
 1.Identify the highest rated cereals
 2.Identify the top rated cereals of each manufacturer
