@@ -4,11 +4,11 @@
 This is my first published SQL project. I’m not quite interested in the food industry but I thought it would be interesting to see whether people preferred my favourite cereals.
 
 ## Dataset Background
- I found this dataset on Kaggle, performed data cleaning and queried with PostgreSQL. This is the data from a supermarket that of course has cereals as one of their products available for sale. This dataset contains a population of 77 unique cereals from 7 various manufacturers. It contains the nutritional information of each cereal ranging from calories, protein, fats, vitamins to other nutrients. It also contains the average ratings of each cereal.
+  I found this dataset on Kaggle, performed data cleaning and queried with PostgreSQL. This is the data from a supermarket that of course has cereals as one of their products available for sale. This dataset contains a population of 77 unique cereals from 7 various manufacturers. It contains the nutritional information of each cereal ranging from calories, protein, fats, vitamins to other nutrients. It also contains the average ratings of each cereal.
 
 
 ## Objectives and Questions
-A scenario where the supermarket is looking to slightly expand its operations and make more units of products available for sale. The task is to look for which products, in this case, cereals to increase the total units purchased for resale. 
+  A scenario where the supermarket is looking to slightly expand its operations and make more units of products available for sale. The task is to look for which products, in this case, cereals to increase the total units purchased for resale. 
 
 1.Identify the highest rated cereals
 
@@ -37,4 +37,5 @@ The total units of Kelloggs’ All-Bran cereal, with a 93% rating along with cur
 1.Analyze Sales data on cereals to identify the products with the highest units sold
 
 2.Analyze Purchase Data to view trends in the length of time between restocks of all products both cereals above or below the average ratings.
-	Cereal sales data can also be obtained from other branches of the chain store for better decision making and quick customer surveys may also be useful to help identify cereals they prefer, whether cereal nutritional information plays a major role in their choice of cereal and new cereals they want to be added to our product range.
+	
+   Cereal sales data can also be obtained from other branches of the chain store for better decision making and quick customer surveys may also be useful to help identify cereals they prefer, whether cereal nutritional information plays a major role in their choice of cereal and new cereals they want to be added to our product range.
